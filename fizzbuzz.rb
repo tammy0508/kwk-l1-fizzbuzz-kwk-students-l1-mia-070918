@@ -11,8 +11,7 @@ def  fizzbuzz
       else
         puts num
     end
-  end 
-  num += 1
+  num
 end
  
 puts fizzbuzz
